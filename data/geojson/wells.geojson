@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "name": "wells",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:EPSG::4269" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -99.475177, 27.642504 ]
+      },
+      "properties": {
+        "well_id": "W-001",
+        "api_number": "42-479-45194",
+        "well_no": "18H",
+        "lease_name": "NIDO RANCH",
+        "operator": "KILLAM OIL CO., LTD.",
+        "county": "WEBB",
+        "rrc_district": "04",
+        "field_name": "HAWKVILLE (AUSTIN CHALK)",
+        "field_no": "39744250",
+        "well_status": "PRODUCING",
+        "well_class": "New Well",
+        "comp_type": "NEW WELL",
+        "spud_date": "2024-12-17",
+        "first_prod_date": "2025-11-12",
+        "total_depth_tvd": 10863,
+        "total_depth_md": 19043,
+        "ip_gas_mcfd": 11252,
+        "siwh_psia": 5714,
+        "flowing_psia": 4667,
+        "choke_size": "26/64",
+        "gas_gravity": 0.595,
+        "water_bbl_day": 1269,
+        "permit_no": "901904",
+        "tracking_no": "345375",
+        "producing_zone": "AUSTIN CHALK",
+        "perf_from_ft": 11076,
+        "perf_to_ft": 18914,
+        "frac_treatment": true,
+        "pipeline": "TX PIPELINE WEBB CO LEAN SYS LLC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -98.481645, 26.705160 ]
+      },
+      "properties": {
+        "well_id": "W-002",
+        "api_number": "42-427-34736",
+        "well_no": "49",
+        "lease_name": "I.V. MONTALVO C",
+        "operator": "KILLAM OIL CO., LTD.",
+        "county": "STARR",
+        "rrc_district": "04",
+        "field_name": "SUN, NORTH (F-4 5300)",
+        "field_no": "87124429",
+        "well_status": "PRODUCING",
+        "well_class": "Recompletion",
+        "comp_type": "OTHER/RECOMPLETION",
+        "spud_date": "2016-07-24",
+        "first_prod_date": "2025-10-01",
+        "total_depth_tvd": 6842,
+        "total_depth_md": null,
+        "ip_gas_mcfd": 492,
+        "siwh_psia": 1750,
+        "flowing_psia": 750,
+        "choke_size": "12/64",
+        "gas_gravity": 0.628,
+        "condensate_gravity_api": 59.4,
+        "water_bbl_day": 0,
+        "permit_no": "911186",
+        "tracking_no": "344698",
+        "producing_zone": "VICKSBURG",
+        "perf_from_ft": 5200,
+        "perf_to_ft": 5205,
+        "frac_treatment": false,
+        "pipeline": "ENTERPRISE PRODUCTS OPERATING LLC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -99.475177, 27.700000 ]
+      },
+      "properties": {
+        "well_id": "W-003",
+        "api_number": "42-479-39100",
+        "well_no": "1701",
+        "lease_name": "K&H FEE PORCION",
+        "operator": "KILLAM OIL CO., LTD.",
+        "county": "WEBB",
+        "rrc_district": "04",
+        "field_name": "DEL MAR (LOBO CONS.)",
+        "field_no": "24139400",
+        "well_status": "PLUGGED & ABANDONED",
+        "well_class": "Abandoned Producer",
+        "comp_type": "ABANDONED PRODUCER",
+        "spud_date": "2005-06-01",
+        "first_prod_date": null,
+        "total_depth_tvd": 6603,
+        "total_depth_md": null,
+        "ip_gas_mcfd": null,
+        "siwh_psia": null,
+        "flowing_psia": null,
+        "choke_size": null,
+        "gas_gravity": null,
+        "water_bbl_day": null,
+        "permit_no": "617135",
+        "tracking_no": null,
+        "producing_zone": "DEL MAR/LOBO",
+        "perf_from_ft": null,
+        "perf_to_ft": null,
+        "frac_treatment": false,
+        "pipeline": null,
+        "plugged_date": "2025-10-02",
+        "p13_water_conversion": true
+      }
+    }
+  ]
+}
