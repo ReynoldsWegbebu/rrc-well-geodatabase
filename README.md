@@ -30,7 +30,7 @@ oil-gas-gis-portfolio/
 ├── data/
 │   ├── raw/                         # Source RRC PDFs (G-1, G-5, G-10, W-3, W-15, P-4, P-13, GW-2)
 │   ├── processed/
-│   │   └── Killam_Oil_GeoDatabase.xlsx   # Full 17-table geodatabase (Excel)
+│   │   └── GeoDatabase.xlsx   # Full 17-table geodatabase (Excel)
 │   └── geojson/
 │       ├── wells.geojson            # Point feature class (NAD83)
 │       ├── formations.geojson       # Formation tops with well association
