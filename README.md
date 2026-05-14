@@ -85,9 +85,9 @@ oil-gas-gis-portfolio/
 
 | Well ID | API | Lease | County | Status | Field | IP Gas (MCF/d) |
 |---------|-----|-------|--------|--------|-------|----------------|
-| W-001 | 42-479-45194 | Nido Ranch 18H | Webb | Producing | Hawkville (Austin Chalk) | **11,252** |
-| W-002 | 42-427-34736 | I.V. Montalvo C #49 | Starr | Producing | Sun North (Vicksburg) | **492** |
-| W-003 | 42-479-39100 | K&H Fee Porcion 1701 | Webb | P&A | Del Mar (Lobo Cons.) | — |
+| W-001 | 42-479-00001 | LEASE A #3| Webb | Producing |(Austin Chalk) | **11,252** |
+| W-002 | 42-427-00002 | LEASE C #49 | Starr | Producing | Sun North (Vicksburg) | **492** |
+| W-003 | 42-479-00003 | LEASE D 17 | Webb | P&A | Del Mar (Lobo Cons.) |  |
 
 ---
 
@@ -138,12 +138,6 @@ open maps/well_dashboard.html
 
 ---
 
-## 📊 Key Analysis Results
-
-- **Nido Ranch 18H** is a high-deliverability Austin Chalk horizontal well with 11,252 MCF/day IP, SIWH of 5,714 psia, and a 19,043 ft MD lateral
-- **I.V. Montalvo C #49** recompletion into Vicksburg (5,200–5,205 ft) yields 492 MCF/day with strong condensate gravity (59.4° API)
-- **K&H Fee Porcion 1701** demonstrates a full P&A and water well conversion workflow (RRC Form P-13, GW-2)
-- Formation depth range across the portfolio spans **1,310 ft** (Catahoula) to **10,513 ft TVD** (Austin Chalk top)
 
 ---
 
