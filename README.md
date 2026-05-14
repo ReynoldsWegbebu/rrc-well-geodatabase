@@ -240,10 +240,13 @@ oil-gas-gis-portfolio/
     ├── METHODOLOGY.md               # How data was extracted and normalized
     └── RRC_FORMS_REFERENCE.md       # Guide to RRC regulatory forms used
 ```
+
+---
 🗃️ Geodatabase Schema
 17 related tables organized into 6 thematic groups:
 GroupTablesRecordsSpatial CoreWELLS3 wellsCompletion & DrillingCOMPLETION, CASING, CEMENTING, TUBING3 / 7 / 5 / 3Production & TestingGAS_MEASUREMENT, PRESSURE_TEST, CLASSIFICATION, GAS_STATUS2 / 4 / 2 / 2Intervals & TreatmentPERFORATIONS, FRAC_TREATMENT3 / 3GeologyFORMATIONS12 formation topsRegulatory & CompliancePLUGGING, TRANSPORT_AUTH, GROUNDWATER, OPERATOR1 / 5 / 2 / 1
 Primary key: WELL_ID (W-001, W-002, W-003) — all tables relate back to the WELLS feature class via FK.
+---
 
 🗺️ Wells Covered
 Well IDAPILeaseCountyStatusFieldIP Gas (MCF/d)W-00142-479-00001LEASE A #3WebbProducing(Austin Chalk)11,252W-00242-427-00002LEASE C #49StarrProducingSun North (Vicksburg)492W-00342-479-00003LEASE D 17WebbP&ADel Mar (Lobo Cons.)
