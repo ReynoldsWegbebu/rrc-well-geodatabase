@@ -8,7 +8,11 @@
 [![RRC Texas](https://img.shields.io/badge/Source-RRC%20of%20Texas-red)](https://www.rrc.texas.gov)
 
 ---
+📌 Project Overview
+A production-grade well geodatabase built from Railroad Commission of Texas (RRC) regulatory filings for three random wells in Starr and Webb Counties, Texas (RRC District 04).
+This project demonstrates end-to-end GIS data engineering for oil and gas — from raw RRC form extraction through to a normalized relational geodatabase, spatial GeoJSON feature classes, SQL schema, Python ETL pipeline, and an interactive map dashboard (I was inspired to design the project after taking online course on O&G Data Management. To design a single geodatabase of true form exploration, drilling , production, etc.)
 
+Intended audience: Oil & gas operators, E&P companies, geospatial firms, and energy data providers hiring for GIS Analyst, Geospatial Engineer, or Petroleum Data Analyst roles.
 
 
 ## 🗂️ Repository Structure
@@ -56,13 +60,7 @@ oil-gas-gis-portfolio/
 
 
 
----
-📌 Project Overview
-A production-grade well geodatabase built from Railroad Commission of Texas (RRC) regulatory filings for three random wells in Starr and Webb Counties, Texas (RRC District 04).
-This project demonstrates end-to-end GIS data engineering for oil and gas — from raw RRC form extraction through to a normalized relational geodatabase, spatial GeoJSON feature classes, SQL schema, Python ETL pipeline, and an interactive map dashboard (I was inspired to design the project after taking online course on O&G Data Management. To design a single geodatabase of true form exploration, drilling , production, etc.)
 
-Intended audience: Oil & gas operators, E&P companies, geospatial firms, and energy data providers hiring for GIS Analyst, Geospatial Engineer, or Petroleum Data Analyst roles.
----
 
 🗂️ Repository Structure
 
