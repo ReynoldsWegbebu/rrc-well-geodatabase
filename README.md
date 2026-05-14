@@ -195,6 +195,8 @@ Intended audience: Oil & gas operators, E&P companies, geospatial firms, and ene
 
 
 🗂️ Repository Structure
+
+```
 oil-gas-gis-portfolio/
 │
 ├── README.md                        # This file
@@ -237,7 +239,7 @@ oil-gas-gis-portfolio/
     ├── DATA_DICTIONARY.md           # All 17 tables, every field defined
     ├── METHODOLOGY.md               # How data was extracted and normalized
     └── RRC_FORMS_REFERENCE.md       # Guide to RRC regulatory forms used
-
+```
 🗃️ Geodatabase Schema
 17 related tables organized into 6 thematic groups:
 GroupTablesRecordsSpatial CoreWELLS3 wellsCompletion & DrillingCOMPLETION, CASING, CEMENTING, TUBING3 / 7 / 5 / 3Production & TestingGAS_MEASUREMENT, PRESSURE_TEST, CLASSIFICATION, GAS_STATUS2 / 4 / 2 / 2Intervals & TreatmentPERFORATIONS, FRAC_TREATMENT3 / 3GeologyFORMATIONS12 formation topsRegulatory & CompliancePLUGGING, TRANSPORT_AUTH, GROUNDWATER, OPERATOR1 / 5 / 2 / 1
