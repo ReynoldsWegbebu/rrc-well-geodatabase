@@ -177,8 +177,8 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 🤝 Contact
 
-Built by **[Your Name]**  
-📧 your.email@domain.com  
+Built by **REYNOLDS**  
+📧 reybu20@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 📍 Available for GIS Analyst / Geospatial Engineer roles in oil & gas
 
