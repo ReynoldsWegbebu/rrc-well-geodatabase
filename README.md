@@ -1,5 +1,5 @@
 # 🛢️ Oil & Gas Well GIS Portfolio
-### RRC District 04 — Killam Oil Co. Geodatabase Project
+### RRC District 04 — Geodatabase Project
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://python.org)
 [![PostGIS](https://img.shields.io/badge/PostGIS-3.3-336791?logo=postgresql&logoColor=white)](https://postgis.net)
