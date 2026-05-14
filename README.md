@@ -16,48 +16,7 @@ This project demonstrates end-to-end GIS data engineering for oil and gas — fr
 Intended audience: Oil & gas operators, E&P companies, geospatial firms, and energy data providers hiring for GIS Analyst, Geospatial Engineer, or Petroleum Data Analyst roles.
 
 
-## 🗂️ Repository Structure
 
-```
-oil-gas-gis-portfolio/
-│
-├── README.md                        # This file
-├── LICENSE
-│
-├── data/
-│   ├── raw/                         # Source RRC PDFs (G-1, G-5, G-10, W-3, W-15, P-4, P-13, GW-2)
-│   ├── processed/
-│   │   └── GeoDatabase.xlsx   # Full 17-table geodatabase (Excel)
-│   └── geojson/
-│       ├── wells.geojson            # Point feature class (NAD83)
-│       ├── formations.geojson       # Formation tops with well association
-│       └── perforations.geojson     # Perforation intervals
-│
-├── database/
-│   ├── schema/
-│   │   └── geodatabase_erd.html     # Interactive ERD diagram
-│   └── sql/
-│       ├── 01_create_tables.sql     # Full DDL — all 17 tables
-│       ├── 02_insert_data.sql       # Seed data from RRC filings
-│       └── 03_spatial_queries.sql   # Example analysis queries
-│
-├── maps/
-│   └── well_dashboard.html          # Interactive Leaflet.js well map
-│
-├── scripts/
-│   ├── etl/
-│   │   ├── parse_rrc_forms.py       # Extract fields from RRC PDF structure
-│   │   ├── build_geodatabase.py     # Build normalized Excel geodatabase
-│   │   └── export_geojson.py        # Export spatial tables to GeoJSON
-│   └── analysis/
-│       ├── production_analysis.py   # IP gas comparison, pressure analysis
-│       └── formation_depths.py      # Formation top visualization
-│
-└── docs/
-    ├── DATA_DICTIONARY.md           # All 17 tables, every field defined
-    ├── METHODOLOGY.md               # How data was extracted and normalized
-    └── RRC_FORMS_REFERENCE.md       # Guide to RRC regulatory forms used
-```
 
 
 <img width="1882" height="981" alt="image" src="https://github.com/user-attachments/assets/7e6384f3-f431-480f-8d7a-9d8b2dabeffb" />
@@ -75,7 +34,7 @@ oil-gas-gis-portfolio/
 ├── data/
 │   ├── raw/                         # Source RRC PDFs (G-1, G-5, G-10, W-3, W-15, P-4, P-13, GW-2)
 │   ├── processed/
-│   │   └── GeoDatabase.xlsx         # Full 17-table geodatabase (Excel)
+│   │   └── GeoDatabase.xlsx         # Full 65 -table geodatabase (Excel)
 │   └── geojson/
 │       ├── wells.geojson            # Point feature class (NAD83)
 │       ├── formations.geojson       # Formation tops with well association
