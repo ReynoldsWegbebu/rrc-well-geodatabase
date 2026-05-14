@@ -60,6 +60,7 @@ oil-gas-gis-portfolio/
 ```
 
 
+<img width="1882" height="981" alt="image" src="https://github.com/user-attachments/assets/7e6384f3-f431-480f-8d7a-9d8b2dabeffb" />
 
 
 
