@@ -188,10 +188,6 @@ psql -U postgres -d oilgas_gis -f database/sql/02_insert_data.sql
 python scripts/etl/export_geojson.py
 ```
 
-### 5. Open the interactive map
-```bash
-open maps/well_dashboard.html
-```
 
 ---
 
