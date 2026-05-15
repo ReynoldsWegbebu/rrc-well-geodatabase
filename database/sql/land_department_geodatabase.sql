@@ -1,10 +1,10 @@
 -- ============================================================
 -- LAND DEPARTMENT GEODATABASE
 -- Schema: land
--- Company: Killam Oil Company
+-- Company: 
 -- Description: Upstream E&P Land Department geodatabase covering
 --              leases, tracts, ownership, title, contracts, and permits
--- Author: Bismark Reynolds
+-- Author: Reynolds
 -- Date: 2026
 -- ============================================================
 
