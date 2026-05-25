@@ -10,7 +10,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -99.475177, 27.642504 ]
+        "coordinates": [ -92.475177, 24.642504 ]
       },
       "properties": {
         "well_id": "W-001",
@@ -20,7 +20,7 @@
         "operator": "A",
         "county": "WEBB",
         "rrc_district": "04",
-        "field_name": "HAWKVILLE (AUSTIN CHALK)",
+        "field_name": "",
         "field_no": "39744250",
         "well_status": "PRODUCING",
         "well_class": "New Well",
@@ -35,30 +35,30 @@
         "choke_size": "26/64",
         "gas_gravity": 0.595,
         "water_bbl_day": 1269,
-        "permit_no": "901904",
-        "tracking_no": "345375",
-        "producing_zone": "AUSTIN CHALK",
+        "permit_no": "888888",
+        "tracking_no": "3O7897",
+        "producing_zone": "A",
         "perf_from_ft": 11076,
         "perf_to_ft": 18914,
         "frac_treatment": true,
-        "pipeline": "TX PIPELINE WEBB CO LEAN SYS LLC"
+        "pipeline": "YY"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -98.481645, 26.705160 ]
+        "coordinates": [ -96.481645, 28.705160 ]
       },
       "properties": {
         "well_id": "W-002",
-        "api_number": "42-427-00002",
+        "api_number": "42",
         "well_no": "49",
         "lease_name": "B",
         "operator": "B.",
         "county": "STARR",
         "rrc_district": "04",
-        "field_name": "SUN, NORTH (F-4 5300)",
+        "field_name": "SUN, ",
         "field_no": "87124429",
         "well_status": "PRODUCING",
         "well_class": "Recompletion",
@@ -74,30 +74,30 @@
         "gas_gravity": 0.628,
         "condensate_gravity_api": 59.4,
         "water_bbl_day": 0,
-        "permit_no": "911186",
-        "tracking_no": "344698",
-        "producing_zone": "VICKSBURG",
+        "permit_no": "222222",
+        "tracking_no": "66666",
+        "producing_zone": "",
         "perf_from_ft": 5200,
         "perf_to_ft": 5205,
         "frac_treatment": false,
-        "pipeline": "ENTERPRISE PRODUCTS OPERATING LLC"
+        "pipeline": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -99.475177, 27.700000 ]
+        "coordinates": [ -96.475177, 24.700000 ]
       },
       "properties": {
         "well_id": "W-003",
-        "api_number": "42-479-00003",
+        "api_number": "42",
         "well_no": "1701",
         "lease_name": "C",
-        "operator": "KILLAM OIL CO., LTD.",
+        "operator": "MMMM.",
         "county": "WEBB",
         "rrc_district": "04",
-        "field_name": "DEL MAR (LOBO CONS.)",
+        "field_name": "DE.",
         "field_no": "24139400",
         "well_status": "PLUGGED & ABANDONED",
         "well_class": "Abandoned Producer",
@@ -112,9 +112,9 @@
         "choke_size": null,
         "gas_gravity": null,
         "water_bbl_day": null,
-        "permit_no": "617135",
+        "permit_no": "7777",
         "tracking_no": null,
-        "producing_zone": "DEL MAR/LOBO",
+        "producing_zone": "DE",
         "perf_from_ft": null,
         "perf_to_ft": null,
         "frac_treatment": false,
