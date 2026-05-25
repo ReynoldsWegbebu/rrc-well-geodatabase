@@ -1,10 +1,10 @@
-## Comprehensive Disclosure & Disclaimer
+## ⚖️ Comprehensive Disclosure & Disclaimer
 
 ### 1. Authorship and Development Context
-This geodatabase schema was independently conceived and developed by [Your Name] on personal time, using personal equipment and resources. Development occurred between [Month Year] and [Month Year]. No employer time, funds, data, or proprietary systems were used in its creation.
+This geodatabase schema was independently conceived and developed by Reynolds on personal time, using personal equipment and resources. No employer time, funds, data, or proprietary systems were used in its creation.
 
 ### 2. Intellectual Property Status
-This design is original work and does not reproduce, contain, or derive from any proprietary schema, business logic, or confidential information belonging to any current or former employer, client, or partner. All feature classes, tables, relationship classes, domains, and subtypes are generic or based on publicly available data standards such as [Esri ArcGIS Data Models, FGDC, PODS, etc. — list what applies].
+This design is original work and does not reproduce, contain, or derive from any proprietary schema, business logic, or confidential information belonging to any current or former employer, client, or partner. All feature classes, tables, relationship classes, domains, and subtypes are generic or based on publicly available data standards such as Esri ArcGIS Data Model, RRC.
 
 ### 3. Public Safety & Critical Infrastructure Notice
 This schema is a conceptual, educational demonstration only. It does not represent real-world oil & gas infrastructure, locations, specifications, or operational procedures. In accordance with GISCI Code of Ethics Rule 1.4, this repository contains no information that could reasonably be used to threaten public health, safety, or welfare. Users shall not use this design to model, analyze, or operate actual critical infrastructure without proper authorization, security review, and compliance with all applicable laws and industry standards.
@@ -13,13 +13,14 @@ This schema is a conceptual, educational demonstration only. It does not represe
 This work is not affiliated with, endorsed by, sponsored by, or representative of any past or present employer, client, or organization in the oil and gas sector. Any similarity to actual operational schemas is coincidental.
 
 ### 5. Limitation of Liability
-This schema is provided "as is" without warranty of any kind. The author makes no representations regarding accuracy, completeness, or suitability for any purpose. Implementation is at the user’s own risk. The author disclaims all liability for any loss, damage, or injury arising from the use or misuse of this design.
+This schema is provided "as is" without warranty of any kind. The author makes no representations regarding accuracy, completeness, or suitability for any purpose. Implementation is at the user's own risk. The author disclaims all liability for any loss, damage, or injury arising from the use or misuse of this design.
 
 ### 6. Ethical Compliance Statement
 This repository is maintained in compliance with the GIS Certification Institute (GISCI) Code of Ethics and Rules of Conduct, specifically Rules 1.1, 1.4, 2.3, 3.1, and 4.1.
 
 ### 7. Contact for Concerns
-If you believe this repository contains sensitive or proprietary information, please open an issue or contact [your email] immediately for review and remediation.
+If you believe this repository contains sensitive or proprietary information, please open an issue or contact reybu20@gmail.com immediately for review and remediation.
+
 
 
 
@@ -75,7 +76,7 @@ oil-gas-gis-portfolio/
 │       ├── oilgas_arcgis_objectid.sql   # ArcGIS-compatible OBJECTID/GLOBALID columns
 │       ├── oilgas_extensions.sql        # RRC violation and inspection schema
 │       ├── oilgas_full_extension.sql    # Full domain extension schema
-│       └── pods_v7_geodatabase.sql      # PODS v7 industry-standard geodatabase schema
+│       
 │
 ├── maps/
 │   └── well_dashboard.html          # Interactive Leaflet.js well map
